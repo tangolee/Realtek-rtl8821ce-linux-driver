@@ -4,4 +4,4 @@
 
 who can build and test it and report issues
 
-i am working in outside and have no time to test it
+i am working  outside and have no time to test it
