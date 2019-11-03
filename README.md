@@ -6,3 +6,7 @@
 
 ### i am working in outside and have no time to test it
 
+<<<<<<< HEAD
+=======
+i am working  outside and have no time to test it
+>>>>>>> 88c430ab645bec7989c9bcf4c3e55713ea29f509
