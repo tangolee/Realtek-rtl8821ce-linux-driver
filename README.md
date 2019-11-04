@@ -7,8 +7,8 @@
 ### i am working in outside and have no time to test it
 
 ## build and install
-- make
+- ```make```
 
-- sudo make install
+- ```sudo make install```
 
-- sudo modprobe -a 8821ce
+- ```sudo modprobe -a 8821ce```
