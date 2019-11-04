@@ -6,3 +6,9 @@
 
 ### i am working in outside and have no time to test it
 
+## build and install
+- make
+
+- sudo make install
+
+- sudo modprobe -a 8821ce
