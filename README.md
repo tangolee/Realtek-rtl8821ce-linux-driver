@@ -15,5 +15,10 @@
 
 if use `make` install failed, try dkms.
 
+```shell
+sudo apt install bc module-assistant build-essential dkms
+sudo m-a prepare
+```
+
 ### `sudo ./dkms-install.sh`
 
