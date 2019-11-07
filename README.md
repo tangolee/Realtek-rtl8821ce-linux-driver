@@ -12,3 +12,8 @@
 - ```sudo make install```
 
 - ```sudo modprobe -a 8821ce```
+
+if use `make` install failed, try dkms.
+
+### `sudo ./dkms-install.sh`
+
